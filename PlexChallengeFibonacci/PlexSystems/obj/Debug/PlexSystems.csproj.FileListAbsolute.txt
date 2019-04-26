@@ -1,0 +1,7 @@
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\bin\Debug\PlexSystems.exe.config
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\bin\Debug\PlexSystems.exe
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\bin\Debug\PlexSystems.pdb
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\obj\Debug\PlexSystems.csprojAssemblyReference.cache
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\obj\Debug\PlexSystems.csproj.CoreCompileInputs.cache
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\obj\Debug\PlexSystems.exe
+C:\Ravindra\R&D\PlexCodeChallenge\PlexSystems\PlexSystems\obj\Debug\PlexSystems.pdb
